@@ -14,7 +14,7 @@ BSc (Hons) Artificial Intelligence undergraduate at APIIT Sri Lanka (Staffordshi
 | [APIIT Admissions Chatbot](https://github.com/vidushaathukorala/apiit-admissions-chatbot) | NLP chatbot answering university admissions FAQs | Python, NLTK |
 | [Online Retail Power BI Dashboard](https://github.com/vidushaathukorala/online-retail-powerbi-dashboard) | ETL, star-schema model and interactive sales dashboard | Power BI, DAX, Power Query |
 | [Pet Clinic Database](https://github.com/vidushaathukorala/pet-clinic-database) | Relational database normalised to 3NF, with role-based access | MySQL |
-|   | [Altrium Recruitment Tracker](https://github.com/damrunp/altrium-recruitment) (team) | Recruitment web app with AI CV screening. I was the QA Engineer ([54 test cases](https://github.com/damrunp/altrium-recruitment/tree/main/qa)) and the Sprint 2 Business Analyst ([15 UML diagrams](https://github.com/damrunp/altrium-recruitment/tree/main/sprint-2-uml)) | React, Supabase, Scrum |
+| [Altrium Recruitment Tracker](https://github.com/damrunp/altrium-recruitment) (team) | Recruitment web app with AI CV screening. I was the QA Engineer ([54 test cases](https://github.com/damrunp/altrium-recruitment/tree/main/qa)) and the Sprint 2 Business Analyst ([15 UML diagrams](https://github.com/damrunp/altrium-recruitment/tree/main/sprint-2-uml)) | React, Supabase, Scrum |
 | [Phonebook Management System](https://github.com/vidushaathukorala/cpp-phonebook-management-system) | Menu-driven contact manager using OOP | C++ |
 | [World Exchange Website](https://github.com/vidushaathukorala/world-exchange-website) | Cultural community website ([live site](https://cb015652.wixsite.com/my-site-1-1)) | Wix |
 
